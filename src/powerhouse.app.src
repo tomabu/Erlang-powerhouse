@@ -1,0 +1,16 @@
+{application, powerhouse,
+ [{description, "Model elektrowni wiatrowej na potrzeby uczelnianego przedmiotu"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { powerhouse, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Tomasz Buczek"]},
+  {licenses, ["BSD-3"]},
+  {links, []}
+ ]}.
