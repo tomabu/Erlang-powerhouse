@@ -25,7 +25,6 @@ Projekt składa się z czterch modułów: windmill, powerhouse, powerhouse_sup i
 
 API dla elektrowni
 -----
-Zachęcam do otworzenia dokumentacji z folder /doc
 
 Wyświetlanie aktualnego stanu elektrowni w formacie {Zgromadzona energia, ilość wiatraków}
 
